@@ -1,0 +1,13 @@
+C:\Program Files\osquery\cert.pem - Access is denied.
+C:\Program Files\osquery\certs\cert.pem - Access is denied.
+C:\Program Files\osquery\certs - Access is denied.
+C:\Program Files\osquery\enrollment_secret.txt - Access is denied.
+C:\Program Files\osquery\log - Access is denied.
+C:\Program Files\osquery\osquery.db - Access is denied.
+C:\Program Files\osquery\osquery.flags - Access is denied.
+C:\Program Files\osquery\osquery.pid - Access is denied.
+C:\Program Files\osquery\osqueryd\osqueryd.exe - Access is denied.
+C:\Program Files\osquery\osqueryd - Access is denied.
+C:\Program Files\osquery\packs - Access is denied.
+Access is denied.
+The system cannot find the file specified.
