@@ -6,7 +6,7 @@ def get_replica_ip():
     return data['ip']
 def write_into_file(replica):
     with open(file_path,'a') as file:
-        file.write(f"\n{replica}\ts3.ieor.iitb.ac.in\n")
+        file.write(f"\n{replica}\ts3.ieor.iitb.ac.in")
 if __name__ == '__main__':
     replica_ip = get_replica_ip()
     print("Selected Replica IP:", replica_ip)

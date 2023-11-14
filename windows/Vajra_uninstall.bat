@@ -42,6 +42,10 @@ echo [+] Stopping the Vajra EDR service
 
 sc stop %kServiceName% >nul 2>> "%LogFile%"
 
+echo [+] Removing DNS entry
+
+python %~dp0common\delete_entry.py
+
 echo [+] Removing "%ProgramFiles%\osquery" files
 
 rmdir /s /q "%ProgramFiles%\osquery" >nul 2>> "%LogFile%"
