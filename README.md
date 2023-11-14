@@ -26,3 +26,10 @@ This sudo has to be pronounced as pseudo (:]).
 sudo ./Vajra_install.sh
 ```
 5. The Vajra client is now installed and running the system. Ypu should be able to see the server IP you are connected to.
+
+## Team Members
+
+1. [Mithil Pechimuthu](https://github.com/PechimuthuMithil) - 21100129
+2. [Kaushal Kothiya](https://github.com/kaushal-003) - 21110107
+3. [Sachin Jalan](https://github.com/SachinJalan) - 21110183
+4. [Anushk Bhana]() - 21110031
