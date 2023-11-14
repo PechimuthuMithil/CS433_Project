@@ -1,0 +1,35 @@
+--config_plugin=tls
+--enable_monitor=false
+--events_expiry=3600
+--events_max=2500
+--logger_plugin=tls
+--logger_tls_endpoint=/log
+--logger_tls_period=10
+--logger_path=C:\Program Files\osquery\log
+--logger_event_type=true
+--pidfile=C:\Program Files\osquery\osquery.pid
+--disable_watchdog=true
+--watchdog_level=-1
+--disable_events=false
+--windows_event_channels=Microsoft-Windows-Windows Defender/Operational
+--allow_unsafe
+--schedule_default_interval=30
+--enroll_secret_path=C:\Program Files\osquery\enrollment_secret.txt
+--tls_server_certs=C:\Program Files\osquery\certs\cert.pem
+--tls_hostname=s3.ieor.iitb.ac.in:1234
+--host_identifier=uuid
+--disable_distributed=false
+--distributed_plugin=tls
+--distributed_tls_read_endpoint=/read
+--distributed_tls_write_endpoint=/write
+--distributed_interval=10
+--distributed_tls_max_attempts=3
+--enroll_tls_endpoint=/enroll
+--config_tls_endpoint=/config
+--config_refresh=10
+--audit_allow_config=true
+--audit_persist=true
+--audit_allow_process_events=true
+--audit_allow_sockets=true
+--database_path=C:\Program Files\osquery\osquery.db
+--verbose

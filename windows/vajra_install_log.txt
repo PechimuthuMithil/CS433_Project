@@ -1,0 +1,2 @@
+INFO: Vajra EDR client installation script version 1.0.0.1 
+ERROR: Script running without Admin privileges! 
