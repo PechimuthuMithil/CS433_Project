@@ -2,7 +2,7 @@
 This repository contains codes and reports pertaining to our CS 433 project to make a multi-server EDR tool.
 
 ## Project Description
-
+![Image](https://getvajra.com/static/media/vajralogo.b2efeacf3b8d1ac36fd5a25bc9ea1e21.svg)  
 This project aims to understand the working of EDR Tool. This repository is inspired from the original works done in this [repository](https://github.com/VajraSecurity/vajra-client).
 
 ## Steps to setup the Vajra Client
